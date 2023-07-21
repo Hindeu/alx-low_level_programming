@@ -38,7 +38,7 @@ int main(void)
 		}
 		else
 		{
-			_putchar("%d", x);
+			_putchar(x + '0');
 		}
 
 		if (x != 100)
