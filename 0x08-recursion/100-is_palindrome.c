@@ -29,7 +29,7 @@ int check_palindrome(char *s)
 	if (*s == s[l])
 	{
 		s++;
-		l--;
+		--l;
 	}
 	else
 	{
