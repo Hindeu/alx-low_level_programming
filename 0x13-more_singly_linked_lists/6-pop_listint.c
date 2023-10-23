@@ -2,10 +2,10 @@
 #include "lists.h"
 
 /**
-  * pop_listint - ...
-  * @head: ...
+  * pop_listint - Pop a linked list
+  * @head: The head of the linked list
   *
-  * Return: ...
+  * Return: n
   */
 int pop_listint(listint_t **head)
 {
