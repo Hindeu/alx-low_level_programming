@@ -2,10 +2,10 @@
 #include "lists.h"
 
 /**
-  * free_listint2 - ...
-  * @head: ...
+  * free_listint2 - free linked list 
+  * @head: the head of the linked list
   *
-  * Return: ...
+  * Return: nothing
   */
 void free_listint2(listint_t **head)
 {
